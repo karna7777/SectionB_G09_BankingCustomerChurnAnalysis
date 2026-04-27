@@ -1,0 +1,4 @@
+balance_segment,total_customers,churned_customers,retained_customers,churn_rate_%
+High,4271,520,3751,12.18
+Low,3087,2016,1071,65.31
+Medium,21024,2724,18300,12.96

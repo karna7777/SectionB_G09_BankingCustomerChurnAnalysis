@@ -1,0 +1,3 @@
+gender,total_customers,churned_customers,retained_customers,churn_rate_%
+Female,11309,1985,9324,17.55
+Male,17073,3275,13798,19.18

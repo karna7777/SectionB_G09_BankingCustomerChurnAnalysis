@@ -1,0 +1,7 @@
+occupation,total_customers,churned_customers,retained_customers,churn_rate_%
+Unknown,80,13,67,16.25
+company,40,4,36,10.0
+retired,2024,305,1719,15.07
+salaried,6704,1147,5557,17.11
+self_employed,17476,3467,14009,19.84
+student,2058,324,1734,15.74

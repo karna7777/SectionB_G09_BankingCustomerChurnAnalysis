@@ -1,0 +1,5 @@
+vintage_bucket,total_customers,churned_customers,retained_customers,churn_rate_%
+New(0-12),4,0,4,0.0
+Growing(12-36),142,24,118,16.9
+Loyal(36-60),3653,708,2945,19.38
+Champion(60+),24583,4528,20055,18.42
