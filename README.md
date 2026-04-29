@@ -1,4 +1,4 @@
-# SectionB_G09_BankingCustomerChurnAnalysis
+
 # Predictive Insights into Banking Customer Churn
 
 **NST DVA Capstone 2 – Project Repository**  
