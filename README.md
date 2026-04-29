@@ -116,9 +116,20 @@ Predictive-Insights-into-Banking-Customer-Churn/
 │
 ├── tableau/
 ├── reports/
+│   ├── project_report.docx
+│   └── presentation.pdf
 ├── docs/
 └── README.md
 ```
+
+---
+
+## Final Report & Presentation
+
+- **Presentation:** [presentation.pdf](reports/presentation.pdf)
+- **Project Report:** [project_report.docx](reports/project_report.docx)
+
+---
 
 ---
 
