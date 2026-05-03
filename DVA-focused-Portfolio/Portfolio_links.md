@@ -7,7 +7,7 @@
 | Supreet           | [View Portfolio]()    |
 | Meet Ahuja         | [View Portfolio](https://meetahujaa.netlify.app/)     |
 | Ritesh           | [View Portfolio]()      |
-| Yashpal            | [View Portfolio]()     |
+| Yashpal            | [View Portfolio](https://dva-portfolio-plum-iota.vercel.app)     |
 | priyansh        | [View Portfolio]()       |
 | Prateek             | [View Portfolio]()      |
 
