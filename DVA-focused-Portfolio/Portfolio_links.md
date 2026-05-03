@@ -6,7 +6,7 @@
 |-----------------------|------------------------------------------------------|
 | Supreet           | [View Portfolio]()    |
 | Meet Ahuja         | [View Portfolio](https://meetahujaa.netlify.app/)     |
-| Ritesh           | [View Portfolio]()      |
+| Ritesh           | [View Portfolio](https://dva-portfolio-delta-amber.vercel.app/)      |
 | Yashpal            | [View Portfolio](https://dva-portfolio-plum-iota.vercel.app)     |
 | priyansh        | [View Portfolio](https://portfolio-iota-navy-77.vercel.app/)       |
 | Prateek             | [View Portfolio](https://prateekshukla0918.github.io/dva_portfolio/)      |
