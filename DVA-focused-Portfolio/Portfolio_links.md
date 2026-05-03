@@ -9,7 +9,7 @@
 | Ritesh           | [View Portfolio]()      |
 | Yashpal            | [View Portfolio](https://dva-portfolio-plum-iota.vercel.app)     |
 | priyansh        | [View Portfolio]()       |
-| Prateek             | [View Portfolio]()      |
+| Prateek             | [View Portfolio](https://prateekshukla0918.github.io/dva_portfolio/)      |
 
 ---
 
