@@ -1,0 +1,5 @@
+activity_level,total_customers,churned_customers,retained_customers,churn_rate_%
+High,2179,740,1439,33.96
+Low Activity,17480,2209,15271,12.64
+Moderate,8108,2075,6033,25.59
+Very High,615,236,379,38.37

@@ -1,0 +1,11 @@
+metric,value
+Total Customers,28382.0
+Total Churned,5260.0
+Total Retained,23122.0
+Overall Churn Rate %,18.53
+Avg Current Balance - Churned,4202.91
+Avg Current Balance - Retained,6734.15
+Avg Vintage - Churned,2088.42
+Avg Vintage - Retained,2091.76
+Avg Total Transactions - Churned,7908.48
+Avg Total Transactions - Retained,3515.49

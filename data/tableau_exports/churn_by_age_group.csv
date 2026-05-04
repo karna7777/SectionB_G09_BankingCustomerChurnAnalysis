@@ -1,0 +1,5 @@
+age_group,total_customers,churned_customers,retained_customers,churn_rate_%
+Adult,8439,1686,6753,19.98
+Middle Age,10806,2030,8776,18.79
+Senior,7052,1179,5873,16.72
+Young,2085,365,1720,17.51
